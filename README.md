@@ -1,2 +1,2 @@
 # Practice Repository
-A practice repository for learning hoe to use GitHub.
+A practice repository for learning how to use GitHub.
