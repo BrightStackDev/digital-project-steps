@@ -1,1 +1,2 @@
-# digital-project-steps
+#practice repository
+A practice repository for learning howto use GitHub.
